@@ -10,8 +10,6 @@
 #include <memory>
 #include <iostream>
 
-#include <ros/ros.h>
-
 #include <Eigen/Dense>
 
 #include <opencv2/opencv.hpp>

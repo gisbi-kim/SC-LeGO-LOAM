@@ -1,9 +1,9 @@
 # SC-LeGO-LOAM
 ## Real-time LiDAR SLAM: Scan Context (18 IROS) + LeGO-LOAM (18 IROS)
 - This repository is an example use-case of <a href="https://github.com/irapkaist/scancontext/tree/master/cpp"> Scan Context C++ </a>, the LiDAR place recognition method, for LiDAR SLAM applications.  
-- For more details for each algorithm please refer to 
-  Scan Context https://github.com/irapkaist/scancontext
-  LeGO LOAM https://github.com/facontidavide/LeGO-LOAM-BOR
+- For more details for each algorithm please refer to <br>
+  Scan Context https://github.com/irapkaist/scancontext <br>
+  LeGO LOAM https://github.com/facontidavide/LeGO-LOAM-BOR <br>
 - Just include `Scancontext.h`. For details see the file `mapOptmization.cpp`. 
 - This example is integrated with LOAM, but our simple module (i.e., `Scancontext.h`) can be easily integrated with any other key-frame-based odometry (e.g., wheel odometry or ICP-based odometry).
 - Current version: April, 2020.  

@@ -11,7 +11,7 @@
 
 ## Features 
 - Light-weight: a single header and cpp file named "Scancontext.h" and "Scancontext.cpp"
-    - Our module has KDtree and we used <a href="https://github.com/jlblancoc/nanoflann"> nanoflann </a>. nanoflann is an also single-header-program and that file is in our directory.
+    - Our module has KDtree and we used <a href="https://github.com/jlblancoc/nanoflann"> nanoflann</a>. nanoflann is an also single-header-program and that file is in our directory.
 - Easy to use: A user just remembers and uses only two API functions; `makeAndSaveScancontextAndKeys` and `detectLoopClosureID`.
 - Fast: The loop detector runs at 10-15Hz (for 20 x 60 size, 10 candidates)
 
@@ -53,6 +53,7 @@
 
 ## Dependencies
 - All dependencies are same as LeGO-LOAM (i.e., ROS, PCL, and GTSAM).
+- We used C++14 to use std::make_unique in Scancontext.cpp but you can use C++11 with slightly modifying only that part.
 
 ## Contact 
 - Maintainer: Giseop Kim (`paulgkim@kaist.ac.kr`)

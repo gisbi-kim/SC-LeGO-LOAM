@@ -55,5 +55,28 @@
 - All dependencies are same as LeGO-LOAM (i.e., ROS, PCL, and GTSAM).
 - We used C++14 to use std::make_unique in Scancontext.cpp but you can use C++11 with slightly modifying only that part.
 
+## Cite SC-LeGO-LOAM
+```
+@INPROCEEDINGS { gkim-2018-iros,
+  author = {Kim, Giseop and Kim, Ayoung},
+  title = { Scan Context: Egocentric Spatial Descriptor for Place Recognition within {3D} Point Cloud Map },
+  booktitle = { Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems },
+  year = { 2018 },
+  month = { Oct. },
+  address = { Madrid }
+}
+```
+and 
+```
+@inproceedings{legoloam2018,
+  title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
+  author={Shan, Tixiao and Englot, Brendan},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4758-4765},
+  year={2018},
+  organization={IEEE}
+}
+```
+
 ## Contact 
 - Maintainer: Giseop Kim (`paulgkim@kaist.ac.kr`)

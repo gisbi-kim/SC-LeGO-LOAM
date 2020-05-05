@@ -22,8 +22,8 @@
 - <a href="https://youtu.be/bEqCehMJ_Hk"> Video 3: KAIST (MulRan dataset) </a>
 
 
-<p align="center"><img src="results/mulran_merged.png" width=700></p>
-<p align="center"><img src="results/pangyo_merged.png" width=700></p>
+<p align="center"><img src="results/mulran_merged.png" width=900></p>
+<p align="center"><img src="results/pangyo_merged.png" width=900></p>
 
 
 ## Scan Context integration

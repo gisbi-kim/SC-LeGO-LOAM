@@ -22,7 +22,7 @@
 #include <pcl/filters/voxel_grid.h>
 #include <pcl_conversions/pcl_conversions.h>
 
-#include "nanoflann.h"
+#include "nanoflann.hpp"
 #include "KDTreeVectorOfVectorsAdaptor.h"
 
 #include "tictoc.h"

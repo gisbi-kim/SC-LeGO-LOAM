@@ -80,3 +80,9 @@ and
 
 ## Contact 
 - Maintainer: Giseop Kim (`paulgkim@kaist.ac.kr`)
+
+## Misc notes
+- You may also be interested in this (from the other author's) implementation :) 
+  - ICRA20, ISCLOAM: Intensity Scan Context + LOAM, https://github.com/wh200720041/iscloam
+  - Also light-weight and practical LiDAR SLAM codes! 
+

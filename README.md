@@ -1,4 +1,7 @@
 # SC-LeGO-LOAM
+## NEWS (Nov, 2020)
+- A Scan Context integration for LIO-SAM, named [SC-LIO-SAM (link)](https://github.com/gisbi-kim/SC-LIO-SAM), is also released. 
+
 ## Real-time LiDAR SLAM: Scan Context (18 IROS) + LeGO-LOAM (18 IROS)
 - This repository is an example use-case of <a href="https://github.com/irapkaist/scancontext/tree/master/cpp"> Scan Context C++ </a>, the LiDAR place recognition method, for LiDAR SLAM applications.  
 - For more details for each algorithm please refer to <br>
